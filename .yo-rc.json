@@ -1,0 +1,16 @@
+{
+  "generator-project-journal": {
+    "projectName": "iBeacons",
+    "description": "Bluetooth Beacons",
+    "email": "daniel-schofield93@hotmail.com",
+    "twitter": "",
+    "repo": "",
+    "githubPages": "schoballs/iBeacons",
+    "customDomain": false,
+    "url": "https://schoballs.github.io",
+    "basePath": "/iBeacons",
+    "disqus": "ibeacons",
+    "theme": "Dark",
+    "color": "#2a7ae2"
+  }
+}
