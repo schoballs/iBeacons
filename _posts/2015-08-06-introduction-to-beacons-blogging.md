@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to Beacons Blogging"
 date:   2015-08-06 14:41:33
 categories: Beacons,Project Management
+author: daniel-schofield
 ---
 
 Welcome to our project!
@@ -31,11 +32,3 @@ I'm sure that was a lot to digest for an introduction to a new project and it's 
 > * Technology: Bluetooth Beacons
 
 Thanks for reading and we'll keep you posted!
-
-<div id="signature-container">
-  <a href="#" class="stylish">
-    <img src="./_images/MOD-profile-pic.jpg"/>
-  </a>
-
-
-</div>

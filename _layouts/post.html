@@ -14,6 +14,26 @@ layout: default
 
 </article>
 
+<div class="signature-container">
+  <h1 class="author-heading">Author</h1>
+
+  <img src="{{ site.baseurl }}/images/{{ page.author }}.jpg" class="circular" alt="" />
+
+    {% if page.author == "daniel-schofield" %}
+    <div class="desc-container">
+        <h1 class="author-name">Daniel Schofield</h1>
+        <p class="author-description p-desc">Web Developer - Mobile Applications Developer - Project Manager</p>
+        <br>
+        <p class="email p-desc">E: daniel-schofield93@hotmail.com</p>
+    </div>
+    {% endif %}
+
+
+
+
+</div>
+
+
 <section class="comments">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
