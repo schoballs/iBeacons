@@ -14,25 +14,38 @@ layout: default
 
 </article>
 
+ <!-- This area is for custom author signature
+        You're welcome to copy the structure (there's already css on it) and just put in
+        your own photo, description any contact info you'd like -->
+{% if page.author == "Daniel Schofield" %}
 <div class="signature-container">
   <h1 class="author-heading">Author</h1>
 
   <img src="{{ site.baseurl }}/images/{{ page.author }}.jpg" class="circular" alt="" />
 
-    {% if page.author == "daniel-schofield" %}
+
     <div class="desc-container">
         <h1 class="author-name">Daniel Schofield</h1>
         <p class="author-description p-desc">Web Developer - Mobile Applications Developer - Project Manager</p>
         <br>
-        <p class="email p-desc">E: daniel-schofield93@hotmail.com</p>
+        <p class="email p-desc">E: daniel-schofield93@hotmail.com - FaceBook: </p> <a class="facebook-link p-desc" href="https://www.facebook.com/DanielSchofieldFreelance">fb/DanielSchofieldFreelance</a>
+
     </div>
-    {% endif %}
-
-
-
-
 </div>
+  {% endif %}
 
+  <!-- Make sure when you write your name on an article to spell it exactly the same as this variable -->
+  <!-- Aman Section -->
+  {% if page.author == "Aman Singh" %}
+
+
+  {% endif %}
+
+  <!-- Luiz Section -->
+  {% if page.author == "Luiz Cavalieri" %}
+
+  
+  {% endif %}
 
 <section class="comments">
   <div id="disqus_thread"></div>

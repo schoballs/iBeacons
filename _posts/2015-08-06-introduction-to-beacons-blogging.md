@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction to Beacons Blogging"
 date:   2015-08-06 14:41:33
 categories: Beacons,Project Management
-author: daniel-schofield
+author: Daniel Schofield
 ---
 
 Welcome to our project!
