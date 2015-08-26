@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Are they secure?"
+title:  "Are Bluetooth Beacons secure?"
 date:   2015-08-26 12:38:33
 categories: Technology,Security
 author: Daniel Schofield
