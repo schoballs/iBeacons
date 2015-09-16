@@ -12,7 +12,7 @@ author: Daniel Schofield
 
  Bluetooth devices fall into three categories; Bluetooth devices, Bluetooth Smart devices and Bluetooth Smart Ready devices.
 
- ![Alt text](../images/bluetooth_smart_sf.jpg)
+ ![Alt text](/iBeacons/images/bluetooth_smart_sf.jpg)
 
 <h4>Bluetooth Devices</h4>
 
